@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { KEY } from '../../App';
+import { KEY } from '../useMovie';
 import { Loader } from '../util/Loader';
 import StarRating from '../util/StarRating';
 
@@ -17,7 +17,7 @@ export function MovieDetails({
 
   useEffect(
     function () {
-      if (userRating) countRef.current ++;
+      if (userRating) countRef.current++;
     },
     [userRating]
   );
