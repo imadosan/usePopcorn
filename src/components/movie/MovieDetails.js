@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
-import { KEY } from '../useMovie';
+import { KEY } from '../hooks/useMovie';
 import { Loader } from '../util/Loader';
 import StarRating from '../util/StarRating';
+import { useKey } from '../hooks/useKey';
 
 export function MovieDetails({
   selectedId,
@@ -56,22 +57,7 @@ export function MovieDetails({
     onCloseMovie();
   }
 
-  useEffect(
-    function () {
-      function callback(e) {
-        if (e.code === 'Escape') {
-          onCloseMovie();
-        }
-      }
-
-      document.addEventListener('keydown', callback);
-
-      return function () {
-        document.removeEventListener('keydown', callback);
-      };
-    },
-    [onCloseMovie]
-  );
+  useKey('Escape', onCloseMovie);
 
   useEffect(
     function () {
