@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# 🍿 usePopcorn
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
 
-## Available Scripts
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )![VITE Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![screenshot](public/screenshots/screenshot.png)
 
-### `npm test`
+Click to view the [demo](https://usepopcorn-imad.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Description
 
-### `npm run build`
+usePopcorn lets users search for movies/TV-series, view detailed information, and manage their watch history
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Search Functionality:
+   - Users can enter a movie title in the search box and press Enter to see results. 🔍
+   - The search box is automatically focused when the page loads. 🎯
+   - Users can press Enter to clear the search query after input. ⌨️
+   
+- Search Results Display:
+   - Movie titles and release years are displayed. 🎥📅
+   - Users can click on a movie to view more details. 👆
+   - Detailed search results include the title, poster, runtime, IMDb rating, plot, release year, actors, director, and genre. 📝🎬
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Page Title Update:
+   - The page title is automatically updated to the selected movie title. 📑
 
-### `npm run eject`
+- Rating and Watchlist Management:
+   - Users can rate movies (1 to 10) and add them to their watchlist. ⭐️📝
+   - The watchlist is automatically persisted in local storage. 💾
+   - Users can remove movies from their watchlist by clicking the ❌ button next to the movie. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Navigation:
+   - Users can press the Escape key to return from the search results detail page to the watchlist. ⏪
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies Used
 
-## Learn More
+- React
+- JavaScript
+- HTML
+- CSS
+- OMDb API
+- VITE
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation
 
-### Code Splitting
+To run this project locally, you can follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repository:
+   ```
+   $ https://github.com/imadosan/usePopcorn.git
+   ```
+2. Open the project folder in your code editor of choice.
+3. Install dependencies and packages
+   ```
+   $ npm install
+   ```
+4. Run the application
+   ```
+   $ npm run dev
+   ```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
